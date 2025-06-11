@@ -7,7 +7,7 @@ A robust Python framework for modeling, simulating, and analyzing interest rate 
 ## 📊 Visual Examples
 
 ### 1. Forward curve & θ(t)  
-![Forward vs Theta](images/1.png)
+![Forward vs Theta](1.png)
 
 ### 2. Hull-White simulated rate paths  
 ![Simulated Rates](images/2.png)

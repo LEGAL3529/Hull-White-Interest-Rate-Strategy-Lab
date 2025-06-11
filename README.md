@@ -10,25 +10,25 @@ A robust Python framework for modeling, simulating, and analyzing interest rate 
 ![Forward vs Theta](1.png)
 
 ### 2. Hull-White simulated rate paths  
-![Simulated Rates](images/2.png)
+![Simulated Rates](2.png)
 
 ### 3. Strategy metrics  
-![Cumulative Returns](images/4.png)
+![Cumulative Returns](/4.png)
 
 ### 4. Rolling sharp ratio
-![PCA Clusters](images/5.png)
+![PCA Clusters](5.png)
 
 ### 5. Rolling volatility  
-![Cluster Boxplots](images/6.png)
+![Cluster Boxplots](6.png)
 
 ### 6. Clustering K-means  
-![Cluster Boxplots](images/7.png)
+![Cluster Boxplots](7.png)
 
 ### 7.   
-![Cluster Boxplots](images/8.png)
+![Cluster Boxplots](8.png)
 
 ### 8. Feature means by K-means  
-![Cluster Boxplots](images/9.png)
+![Cluster Boxplots](9.png)
 
 *📌 Place your generated `.png` files in an `images/` folder.*  
 
